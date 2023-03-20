@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to contribute on CrossForge</title>
+    <link>CForgeHUB/how_to_contribute/</link>
+    <description>Recent content in How to contribute on CrossForge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 18:53:54 +0200</lastBuildDate><atom:link href="CForgeHUB/how_to_contribute/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Guide</title>
+      <link>CForgeHUB/how_to_contribute/markdown_guide/</link>
+      <pubDate>Sat, 22 Oct 2022 18:53:54 +0200</pubDate>
+      
+      <guid>CForgeHUB/how_to_contribute/markdown_guide/</guid>
+      <description>Hugo uses markdown files. For this reason it is quite easy to fill the website with knowledge. The markdown guide should help you to get quickly into the file format. Below we have also listed the most usefull markdown syntax which we have used to create this site.
+Create links To an external site A plain link This is quite easy. Either way you just paste the url: https://github.com/CrossForge/CrossForge.
+In code this looks like this:</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>CForgeHUB/how_to_contribute/shortcodes/</link>
+      <pubDate>Sat, 22 Oct 2022 18:53:54 +0200</pubDate>
+      
+      <guid>CForgeHUB/how_to_contribute/shortcodes/</guid>
+      <description>You may have noticed that some syntax can not be displayed via markdown (like equations). In the template some shortcodes are implemented to display notice boxes, mermaids (i.e. diagramms) and equations. Notice To emphasize certain facts, it is possible to use notice. These are special shortcodes which can be implemented quite easily.
+This is a notice box
+{{% notice note %}}This is a notice box{{% /notice %}} There are also info, tip and warning boxes.</description>
+    </item>
+    
+  </channel>
+</rss>
