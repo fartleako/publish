@@ -1,0 +1,30 @@
+baseURL = "https://fartleako.github.io/publish/"
+languageCode = "en-us"
+title = "CrossForge"
+theme = "hugo-theme-learn"
+
+[params]
+disableNextPrev = true
+showVisitedLinks = false
+disableSearch = true
+disableInlineCopyToClipBoard = false
+disableLandingPageButton = false
+ordersectionsby = "weight"
+themeVariant = "blue"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/CrossForge/CrossForge"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bookmark'></i> TU Chemnitz"
+identifier = "hugodoc"
+url = "https://www.tu-chemnitz.de/informatik/GDV/"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bookmark'></i> About the Wiki"
+url = "/wiki/"
+weight = 30
